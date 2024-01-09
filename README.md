@@ -1,14 +1,13 @@
 Emerson Task Terminal is a truly easy to use and open-source process automation client built on the .NET Framework in C#.  It allows you to build and design process automation without needing to write application code.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/saucepleez/taskt)
+
 
 
 branch | build status
 ------------ | -------------
-master | [![Build Status](https://dev.azure.com/taskt/taskt/_apis/build/status/saucepleez.taskt?branchName=master)](https://dev.azure.com/taskt/taskt/_build/latest?definitionId=1&branchName=master)
-development-branch | [![Build Status](https://dev.azure.com/taskt/taskt/_apis/build/status/saucepleez.taskt?branchName=development-branch)](https://dev.azure.com/taskt/taskt/_build/latest?definitionId=1&branchName=development-branch)
-
+master | 
+development-branch | 
 
 
 ![taskt-main-screen](https://i.imgur.com/tHTy6eh.gif)
